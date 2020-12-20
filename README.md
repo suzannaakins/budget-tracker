@@ -1,7 +1,8 @@
 # Budget Tracker
 
 ## Description
-This is my first deployed PWA!  The app allows the user to add and subtract to their account so they know their account balance.  With the ability to add/subtract while offline, this is a great app for travelers who need to track their budget on the go. I developed it using IndexedDB to store data to update the app when online again, a service worker to allow usage when offline, and a web manifest to make the app a PWA.  I deployed using Heroku. Creating a progressive web application was a lot more straight-forward than I anticipated, and I'm really pleased with the result.
+This is my first deployed PWA!  The app allows the user to add and subtract to their account so they know their account balance.  With the ability to add/subtract while offline, this is a great app for travelers who need to track their budget on the go. I developed it using IndexedDB to store data to update the app when online again, a service worker to allow usage when offline, and a web manifest to make the app a PWA.  I deployed using Heroku. Creating a progressive web application was a lot more straight-forward than I anticipated, and I'm really pleased with the result.  View the app here: 
+[Budget Tracker](https://boiling-dusk-43512.herokuapp.com/)
 
 ## Table of Contents
 * [Installation](#installation)
